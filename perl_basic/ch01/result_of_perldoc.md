@@ -7,7 +7,26 @@ If your perldoc is not installed, run below:
 After that the result of the program should be like below:
 
 ```
-~x-special/nautilus-clipboard
-copy
-smb://192.168.2.240/netdata/info/perl/Perl%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8(%E7%AC%AC%E4%BA%94%E7%89%88)%20-%20Learning%20Perl,%205th%20Edition.mobi
+$ perl perldoc.plx 
+=over 8
+
+=item atan2 Y,X
+   
+
+=for Pod::Functions arctangent of Y/X in the range -PI to PI
+
+Returns the arctangent of Y/X in the range -PI to PI.
+
+For the tangent operation, you may use the
+|Math::Trig/> function, or use the familiar
+relation:
+
+    sub tan { sin($_[0]) / cos($_[0])  }
+
+The return value for  is implementation-defined; consult
+your  manpage for more information.
+
+Portability issues: .
+
+=back
 ```
