@@ -17,3 +17,8 @@ Complete documentation for Perl, including FAQ lists, should be found on
 this system using "man perl" or "perldoc perl".  If you have access to the
 Internet, point your browser at http://www.perl.org/, the Perl Home Page.
 ```
+
+# question to be solved
+
+1. Read one image file or compiled executable file as Perl string, change contents, then write back
+
