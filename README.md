@@ -7,4 +7,6 @@ Perl:
 * Correct: Practical Extraction and Report Language
 * People also say: Pathologically Eclectic Rubbish Lister ;-)
 
+CPAN: Comprehensive Perl Archive Network
+
 "Perl Basic" Author: Randal, 5th edition

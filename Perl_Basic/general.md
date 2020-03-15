@@ -1,6 +1,6 @@
 # How to check your perl version?
 
-I'm using Ubuntu 20.04, as below:
+I'm using Ubuntu 20.04, as below at Mar 15, 2020:
 
 ```
 $ perl -v
