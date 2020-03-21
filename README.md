@@ -1,5 +1,7 @@
 # learn_perl
 
+学习
+
 This is the repository recording my learning experience on perl. (starting from date 2020/03/13)
 
 ![perl_camel](/img/perl_camel.jpg)
