@@ -1,3 +1,3 @@
 #!/usr/bin/perl
 $inputline = <STDIN>;
-print ( $inputline);
+print ( $inputline, $inputline);
